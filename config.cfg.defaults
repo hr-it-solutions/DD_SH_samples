@@ -1,0 +1,3 @@
+DIRECTORY=../html/
+LIVE_HOST=localhost
+DEV_HOST=localhost
