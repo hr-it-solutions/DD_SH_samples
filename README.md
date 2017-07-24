@@ -1,5 +1,5 @@
 # DD_SH_samples
-Some small excerpt samples of our private DD Staging SH Scripts
+Some small excerpt samples of our private DD SH Scripts
 
 DD RSYNC <br>
 DD STAGING (No Git)
