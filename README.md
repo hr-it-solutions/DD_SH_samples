@@ -2,7 +2,7 @@
 Some small excerpt samples of our private DD Staging SH Scripts
 
 DD RSYNC <br>
-DD STAGING
+DD STAGING (No Git)
 
 ## No support!
 
